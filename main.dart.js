@@ -36187,7 +36187,7 @@ N(a){var s,r,q,p,o=null,n=A.kE(o,new A.o4("CURRENT URL\n",o,o,o,o),B.A,o,o,o,o,o
 m=m<1?new A.rc(m,o,o,o,o,o,o):A.kE(o,o,B.A,o,o,o,o,o,o,o)
 m=A.kE(o,m,B.A,o,o,o,o,o,new A.bf(10,10,10,10),o)
 s=new A.bt(B.Ct,1,B.F,-1)
-r=A.a6Q(o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.hB("https://flutter.dev"))
+r=A.a6Q(o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.hB("http://localhost:8080/assets/home.html"))
 q=A.ajN()
 p=new A.Rq()
 p.a=q
