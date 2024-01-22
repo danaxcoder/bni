@@ -35230,7 +35230,7 @@ return new A.Fr(A.q0(s,!0,s,s,s,s,s,"camera; microphone",!0,s,s,s,s,!1,s,s,!1,s,
 A.Fr.prototype={
 S(a){return new A.rI(A.agp(new A.Zt(this)),null)}}
 A.Zt.prototype={
-$1(a){a.c.h3("assets/index.html")},
+$1(a){a.c.h3("assets/home.html")},
 $S:123}
 A.xE.prototype={
 dV(a,b){return J.e(a,b)}}
