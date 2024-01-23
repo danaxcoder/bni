@@ -36015,7 +36015,7 @@ W(a){var s=null,r=t.w
 return new A.tf(new A.u9("",B.fr,A.e3(a,s,r).w.a.a,A.e3(a,s,r).w.a.b,new A.a_U(this),s),s)}}
 A.a_U.prototype={
 $1(a){this.a.d=a
-a.q9("assets/assets/assets/home.html",B.fr,!0)},
+a.q9("assets/assets/home.html",B.fr,!0)},
 $S:125}
 A.aT.prototype={
 h(a,b){var s,r=this
