@@ -36014,7 +36014,7 @@ A.Gq.prototype={
 W(a){return new A.tf(new A.u9("<p>Hello world</p>",B.fr,400,400,new A.a_U(this),null),null)}}
 A.a_U.prototype={
 $1(a){this.a.d=a
-a.q9("assets/home.html",B.fr,!0)},
+a.q9("assets/assets/assets/home.html",B.fr,!0)},
 $S:125}
 A.aT.prototype={
 h(a,b){var s,r=this
