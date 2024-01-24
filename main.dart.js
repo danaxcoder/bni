@@ -22469,7 +22469,7 @@ A.GV.prototype={
 $1(a){var s,r=document.createElement("iframe")
 r.width="640"
 r.height="360"
-r.src="https://flutter.dev"
+r.src="assets/assets/home.html"
 s=r.style
 s.border="none"
 return r},
