@@ -36011,7 +36011,7 @@ A.DW.prototype={}
 A.rb.prototype={
 aw(){return new A.Gq(B.n)}}
 A.Gq.prototype={
-W(a){return new A.tf(new A.u9("",B.fr,1000,1000,new A.a_U(this),null),null)}}
+W(a){return new A.tf(new A.u9("",B.fr,400,400,new A.a_U(this),null),null)}}
 A.a_U.prototype={
 $1(a){this.a.d=a
 a.q9("assets/assets/home.html",B.fr,!0)},
