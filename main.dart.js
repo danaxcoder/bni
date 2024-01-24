@@ -36011,10 +36011,10 @@ A.DW.prototype={}
 A.rb.prototype={
 aw(){return new A.Gq(B.n)}}
 A.Gq.prototype={
-W(a){return new A.tf(new A.u9("",B.fr,400,400,new A.a_U(this),null),null)}}
+W(a){return new A.tf(new A.u9("<p>Hello world</p>",B.tp,400,400,new A.a_U(this),null),null)}}
 A.a_U.prototype={
 $1(a){this.a.d=a
-a.q9("assets/assets/home.html",B.fr,!0)},
+a.q9("https://www.google.com",B.fr,!0)},
 $S:125}
 A.aT.prototype={
 h(a,b){var s,r=this
@@ -56713,7 +56713,7 @@ o.a3(0,a0.gB4())
 a0.w=n
 r=a0.a
 p=r.d
-if(p!==B.fr)if(p!==B.tq)r=p===B.tp&&r.c==="about:blank"
+if(p!==B.tp)if(p!==B.tq)r=p===B.fr&&r.c==="about:blank"
 else r=!0
 else r=!0
 if(r)a0.N5(a0.gMt())
@@ -56798,7 +56798,7 @@ r=q.e
 r===$&&A.h()
 s.srcdoc=A.a4z("<br>",!0,B.fi,r)
 break}if(!B.c.av(p,A.bp("http[s]?://",!1))){q.a.toString
-return}if(s===B.tp){s=q.d
+return}if(s===B.fr){s=q.d
 s===$&&A.h()
 s=A.ank(s.contentWindow)
 s.toString
@@ -60444,8 +60444,8 @@ B.Fq=new A.ty(5,"timeout")
 B.Fr=new A.tz(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.to=new A.Cw(0,"permissive")
 B.LK=new A.Cw(1,"normal")
-B.fr=new A.tB(0,"html")
-B.tp=new A.tB(1,"url")
+B.tp=new A.tB(0,"html")
+B.fr=new A.tB(1,"url")
 B.tq=new A.tB(2,"urlBypass")
 B.dx=new A.CK(0,"loose")
 B.Fs=new A.CK(2,"passthrough")
